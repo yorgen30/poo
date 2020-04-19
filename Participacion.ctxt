@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Participacion
+comment1.params=auto\ carrera\ velInicial\ velMax\ posicion
+comment1.target=Participacion(Automovil,\ Carrera,\ java.lang.Integer,\ java.lang.Float,\ java.lang.Integer)
+comment10.params=
+comment10.target=java.lang.Float\ getVelMax()
+comment11.params=
+comment11.target=java.lang.Integer\ getPosicion()
+comment2.params=auto
+comment2.target=void\ setAutomovil(Automovil)
+comment3.params=carrera
+comment3.target=void\ setCarrera(Carrera)
+comment4.params=velocidad
+comment4.target=void\ setVelIncial(java.lang.Integer)
+comment5.params=velocidad
+comment5.target=void\ setVelMax(java.lang.Float)
+comment6.params=posi
+comment6.target=void\ setPosicion(java.lang.Integer)
+comment7.params=
+comment7.target=Automovil\ getAutomovil()
+comment8.params=
+comment8.target=Carrera\ getCarrera()
+comment9.params=
+comment9.target=java.lang.Integer\ getVelInicial()
+numComments=12

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Carrera
+comment1.params=nombre\ distan
+comment1.target=Carrera(java.lang.String,\ java.lang.Integer)
+comment2.params=nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=distancia
+comment3.target=void\ setDistancia(java.lang.Integer)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.lang.Integer\ getDistancia()
+numComments=6
